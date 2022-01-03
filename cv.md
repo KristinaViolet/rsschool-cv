@@ -17,7 +17,7 @@ I study programming in order to solve non-trivial problems and be able to find t
 
 ## Skill
 --------------
-1. HTML&CSS
+1. HTML&CSS, WordPress
 
 2. JS basics
 
