@@ -13,7 +13,7 @@
 
 ## About Me
 ------------
-I study programming in order to solve non-trivial problems and be able to find the best solution for the final product. So far my knowledge is not extensive, I studied WordPress, HTML and CSS, got the initial skills in Java.
+I study programming in order to solve non-trivial problems and be able to find the best solution for the final product. So far my knowledge is not extensive, I studied WordPress, HTML and CSS, got the initial skills in Java. I want to change direction and work in the frontend.
 
 ## Skill
 --------------
