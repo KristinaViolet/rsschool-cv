@@ -1,0 +1,2 @@
+$ git reset --hard 30c93d736d1006331c5f801745c5bb306295f5b7
+$ git push --force
